@@ -2,4 +2,4 @@
 This code replicates the analysis in 
 [Chetty, Hendren, Jones and Porter (2020)](https://opportunityinsights.org/wp-content/uploads/2018/04/race_paper.pdf "Full Paper"). 
 
-Please see the Read Me file for details on the structure of the code. 
+Please see **_Read Me.pdf_** for details on the structure of the code. 
